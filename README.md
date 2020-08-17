@@ -2,7 +2,11 @@
 tags: rclone, google sa, gist (public)
 ---
 # Google Service Account for Rclone Setup - A Complete Tutorial
-This is a manual tutorials to get into details to understand the entire process, instead of using more automated scripts like `autorclone`.
+This is a manual tutorials to get into details to understand the entire process of creating Google SA (Service Accounts), and how to use those to do a rclone task with automatic switching when a condition (limit) is met.
+
+THIS IS NOT A GUIDE TO SETUP RCLONE REMOTE. 
+THIS IS NOT A GUIDE TO SETUP RCLONE REMOTE. 
+THIS IS NOT A GUIDE TO SETUP RCLONE REMOTE. 
 
 # Pre-requisite
 **1. Create google group**
